@@ -27,7 +27,7 @@ supported.vendorpatchlevels=2021-02 -
 
 # boot shell variables
 BLOCK=boot;
-IS_SLOT_DEVICE=0;
+IS_SLOT_DEVICE=1;
 RAMDISK_COMPRESSION=auto;
 PATCH_VBMETA_FLAG=auto;
 
